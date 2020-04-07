@@ -23,8 +23,8 @@ limit=100
 #banner
 clear
 echo   "----------------------------------------------"
-echo   " Author   : ./Hezal"
-echo   " support. : Lao'Neis Agung"
+echo   " Author   : Lao'Neis Agung"
+echo   " support. : NET CYBER TEAM"
 echo   " Youtube  : Agung Nation Official"
 echo   " Github   : github.com/cybertanggerang"
 echo   "GUNAKAN TOOLS INI DENGAN BIJAK"
